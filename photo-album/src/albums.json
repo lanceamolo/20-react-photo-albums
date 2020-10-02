@@ -1,0 +1,130 @@
+{
+  "album": [
+    {
+      "id": "1",
+      "albumTitle": "Cars",
+      "thumbnail1": "https://images.unsplash.com/photo-1600793575654-910699b5e4d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80",
+      "photos": [
+        {
+          "name": "pic1",
+          "thumbnail": "https://images.unsplash.com/photo-1593784766423-d9330dbf553a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2682&q=80"
+        },
+        {
+          "name": "pic2",
+          "thumbnail": "https://images.unsplash.com/photo-1555447628-de06d4e029ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "pic3",
+          "thumbnail": "https://images.unsplash.com/photo-1592150873193-e001e1a14fdc?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "name": "pic4",
+          "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-1/s720x720/1918702_1297574660269060_5460091784391620775_n.jpg?_nc_cat=102&_nc_sid=dbb9e7&_nc_ohc=jK-7CUYgAxUAX8Y09_g&_nc_ht=scontent-sjc3-1.xx&tp=7&oh=7f9e09d0fc2441cfa81eadb303dacc03&oe=5F9AE33F"
+        },
+        {
+          "name": "pic5",
+          "thumbnail": "https://images.unsplash.com/photo-1584920718830-8d5d92a21fa8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "pic6",
+          "thumbnail": "https://i.pinimg.com/originals/88/ef/72/88ef72e640809dbcf6a5d0b0659b1c2e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "albumTitle": "Food",
+      "thumbnail1": "https://images.unsplash.com/photo-1581781870027-04212e231e96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+      "photos": [
+        {
+          "name": "pic1",
+          "thumbnail": "https://images.unsplash.com/photo-1590301157890-4810ed352733?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "pic2",
+          "thumbnail": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "pic3",
+          "thumbnail": "https://images.unsplash.com/photo-1506280754576-f6fa8a873550?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "albumTitle": "Martial Arts",
+      "thumbnail1": "https://images.unsplash.com/photo-1575800509571-6a7fd6b61aad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "photos": [
+        {
+          "name": "pic1",
+          "thumbnail": "https://images.unsplash.com/photo-1501116518234-f32f28802bd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "pic2",
+          "thumbnail": "https://images.unsplash.com/flagged/photo-1578405302740-01f514c1ec64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+        },
+        {
+          "name": "pic3",
+          "thumbnail": "https://images.unsplash.com/photo-1564415315949-7a0c4c73aab4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "albumTitle": "Video Games",
+      "thumbnail1": "https://cdn.vox-cdn.com/thumbor/VRDE7-cJ8ai4lreakb9YxBULZwY=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66627921/FINAL_FANTASY_VII_REMAKE_E3_2019_screenshot_6.0.png",
+      "photos": [
+        {
+          "name": "pic1",
+          "thumbnail": "https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/05/25/1331796832310_2/ashe-in-league-of-legends"
+        },
+        {
+          "name": "pic2",
+          "thumbnail": "https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-11-01-18-53/new-world-of-warcraft-expansion-announced-1572634397770.jpg/EG11/resize/1200x-1/new-world-of-warcraft-expansion-announced-1572634397770.jpg"
+        },
+        {
+          "name": "pic3",
+          "thumbnail": "https://www.denofgeek.com/wp-content/uploads/2015/08/tekprimary.jpg?fit=620%2C535"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "albumTitle": "Hawaii",
+      "thumbnail1": "https://images.unsplash.com/photo-1560558210-f4b5160a962b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "photos": [
+        {
+          "name": "pic1",
+          "thumbnail": "https://images.unsplash.com/photo-1471079222144-ee7466f9b7ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "pic2",
+          "thumbnail": "https://images.unsplash.com/photo-1586209709456-4f31ec6de0f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "pic3",
+          "thumbnail": "https://images.unsplash.com/photo-1583514735580-650d4a4ef5de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "albumTitle": "Dance",
+      "thumbnail1": "https://images.unsplash.com/photo-1502519144081-acca18599776?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "photos": [
+        {
+          "name": "pic1",
+          "thumbnail": "https://images.unsplash.com/photo-1533557252203-6ec9555fe200?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "pic2",
+          "thumbnail": "https://images.unsplash.com/photo-1511913411692-818ea059c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "pic3",
+          "thumbnail": "https://images.unsplash.com/photo-1589739401907-2cc13468e518?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    }
+  ]
+}
