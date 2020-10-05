@@ -9,9 +9,7 @@ function Card(props) {
         <img className={props.className} id={props.id} src={props.src} />
       </div>
       <div className={"bottomSide " + props.className} id={props.id}>
-        <h2 className={"thumbnailTitles " + props.className} id={props.id}>
-          {props.children}
-        </h2>
+        <h3 className={props.className}>{props.children}</h3>
       </div>
     </div>
   )
